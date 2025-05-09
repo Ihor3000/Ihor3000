@@ -28,6 +28,14 @@ I'm a beginner Python developer who is actively learning and building real-world
 - Great for monitoring discounts
 - Built with `requests`, `BeautifulSoup`, `csv`, `time`
 
+### 🌍 [country-lookup](https://github.com/Ihor3000/country-lookup)  
+> A beginner-friendly Python script that allows users to enter a 2-letter country code and receive detailed country info.
+
+- 🌐 Displays country name, region, language, and currency
+- ✅ Handles invalid input gracefully
+- 🔁 Supports repeated lookups
+- ⚙️ Built using `requests` and the [REST Countries API](https://restcountries.com)
+
 ---
 
 ## 🧭 Goals
